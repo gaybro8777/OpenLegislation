@@ -115,7 +115,7 @@
     <jbcrypt.version>0.3m</jbcrypt.version>
     <jsoup.version>1.8.1</jsoup.version>
     <jstl.version>1.2</jstl.version>
-    <junit.version>4.12</junit.version>
+    <junit.version>4.13.1</junit.version>
     <log4j.version>2.11.1</log4j.version>
     <pdfbox.version>1.8.7</pdfbox.version>
     <postgres-jdbc.version>42.2.5</postgres-jdbc.version>
